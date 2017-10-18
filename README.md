@@ -1,1 +1,7 @@
-# speechsystem
+# *_Speech Recogniser_*  
+   ______
+ 
+   C++ implementation of a speech recognition system.
+
+   ---
+   
